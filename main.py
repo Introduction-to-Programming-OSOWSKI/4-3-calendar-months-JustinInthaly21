@@ -6,4 +6,4 @@ def calendar(m):
 
     return m + " is not a month"
 
-month == ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+month = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
